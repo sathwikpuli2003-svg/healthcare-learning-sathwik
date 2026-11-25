@@ -1,1 +1,18 @@
+# Mac files
+.DS_Store
 
+# Windows files
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private environment files
+.env
